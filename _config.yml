@@ -1,6 +1,6 @@
 name: Jekyll Test for Git Pages
 markdown: kramdown
-remote_theme: broccolini/swiss
+remote_theme: zerostaticthemes/jekyll-serif-theme
 theme_color: white
 plugins:
   - jekyll-remote-theme
