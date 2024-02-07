@@ -1,1 +1,6 @@
-remote_theme: affiliates-jekyll-theme
+name: Jekyll Test for Git Pages
+markdown: kramdown
+remote_theme: broccolini/swiss
+theme_color: white
+plugins:
+  - jekyll-remote-theme
