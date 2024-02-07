@@ -4,3 +4,4 @@ remote_theme: zerostaticthemes/jekyll-serif-theme
 theme_color: white
 plugins:
   - jekyll-remote-theme
+baseurl: "/jekyll-serif-theme/"
